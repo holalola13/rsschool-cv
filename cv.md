@@ -22,6 +22,7 @@ and my love for scientific and technical progress at the same time.
 * Responsibility
 
 # **My Skills**
+* Python
 
 # **Code Examples**
 ```
