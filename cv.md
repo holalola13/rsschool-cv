@@ -53,3 +53,4 @@ else:
 # **Languages**
 * Chechen - native speaker
 * Russian - fluent language
+* English - A2 (B1 in process)
